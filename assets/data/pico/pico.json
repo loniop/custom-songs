@@ -1,7 +1,10 @@
 {
 	"song": {
-		"player1": "bfmc",
-		"player2": "sponge1",
+		"song":"Pico",
+		"bpm":150.0,
+		"needsVoices":true,
+		"player1":"bf",
+		"player2":"pico"		
 		"notes": [
 			{
 				"lengthInSteps": 16,
@@ -5951,10 +5954,6 @@
 				"mustHitSection": true
 			}
 		],
-		"gfVersion": "gf",
-		"player3": null,
-		"song": "Satisfaction",
-		"validScore": true,
 		"needsVoices": true,
 		"stage": "kitchen",
 		"speed": 3,
