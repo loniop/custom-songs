@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="spooky kids assets.png">
+<TextureAtlas imagePath="spooky_kids_assets.png">
 	<!-- Created with Adobe Animate version 21.0.5.40714 -->
 	<!-- http://www.adobe.com/products/animate.html -->
 	<SubTexture name="Down0000" x="0" y="0" width="512" height="517"/>
